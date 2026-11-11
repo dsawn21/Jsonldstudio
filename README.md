@@ -1,5 +1,6 @@
 # JSON-LD Studio
 
+ссылка: https://chromewebstore.google.com/detail/json-ld-studio/gnagpfgifommnbfocaknhkhahnjhaeec?authuser=0&hl=ru
 Расширение для Chrome, которое помогает работать с разметкой Schema.org (JSON-LD) прямо на открытой странице: посмотреть, найти ошибки, поправить и сразу увидеть результат. Код сайта для этого менять не нужно. Всё бесплатно и без ограничений.
 
 Версия 1.0.0..
